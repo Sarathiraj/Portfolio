@@ -13,7 +13,6 @@ import {
   SiBootstrap,
   SiGit,
 } from "react-icons/si";
-import { FaNodeJs } from "react-icons/fa";
 
 function App() {
   const [scroll, setScroll] = useState(0);
